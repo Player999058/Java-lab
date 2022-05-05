@@ -134,7 +134,7 @@ int main(){
         cout << "(5) Make all animals eat" << endl;
         cout << "(6) Make all animals speak" << endl;
         cout << "(7) Quit" << endl;
-        cin >> choice;1
+        cin >> choice;
 
         switch(choice){
             case 1:
